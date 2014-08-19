@@ -21,7 +21,7 @@ keywords = ['$goog', '#funny', 'ipad']
 language = ['en']
 
 # You need to replace these with your own values that you get after creating an app on Twitter's developer portal.
-consumer_key = "ADD YOUR CONSUMER HERE"
+consumer_key = "ADD YOUR CONSUMER TOKEN HERE"
 consumer_secret = "ADD YOUR CONSUMER SECRET HERE"
 access_token = "ADD YOUR ACCESS TOKEN HERE"
 access_token_secret = "ADD YOUR ACCESS TOKEN SECRET HERE"
